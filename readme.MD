@@ -1,4 +1,4 @@
-###Spring-boot(maven) 聚合项目 demo
+###Spring-boot 聚合项目 demo
 - DAO
 - MODEL
 - SERVICE
